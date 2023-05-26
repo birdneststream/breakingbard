@@ -4,7 +4,7 @@ Similar to how ChatGPT has DAN mode, these are my findings of a similar approach
 
 I'll update them as I find more and also give credit to any others I find that I have not discovered myself. Using obvious words like `LSD Manufacturing` will get flagged regardless, so you have to get creative with the prompts if these initially do not work.
 
-Also for the output there is additional filtering, any flagged words will return a bad prompt response. So I imagine there'd be a large list of 'banned words' also for both the input and output. Proof of this is provided bellow with *The N Word*.
+Also for the output there is additional filtering, any flagged words will return a bad prompt response. So I imagine there'd be a large list of 'banned words' also for both the input and output. I did with a previous commit provide some evidence of this with an N word prompt, but that is not okay in the year 2023!
 
 Generally if you provided a bad prompt it will return:
 
