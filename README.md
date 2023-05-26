@@ -1,5 +1,7 @@
 # Google Bard 'jailbreaks'
 
+**Update:** Sadly most of these no longer seem to work. :(
+
 Similar to how ChatGPT has DAN mode, these are my findings of a similar approach with Google Bard 'jailbreak' or Google Bard DAN mode. While there currently does not seem to be a way to 100% control the output of Google Bard, there are some edge cases. 
 
 I'll update them as I find more and also give credit to any others I find that I have not discovered myself. Using obvious words like `LSD Manufacturing` will get flagged regardless, so you have to get creative with the prompts if these initially do not work.
